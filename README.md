@@ -28,7 +28,7 @@
   <div>
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basit10&theme=dracula"/>
    
-  [![trophy](https://github-profile-trophy.vercel.app/?username=basit10&theme=basit10)](https://github.com/basit10/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=basit10&theme=dracula)](https://github.com/basit10/github-profile-trophy)
  ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basit10)](https://github.com/basit10/github-readme-stats)
   
   </div>
