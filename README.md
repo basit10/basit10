@@ -7,7 +7,7 @@
   </a>
 </div>
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=mughal963&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=basit10&style=flat-square&color=blue" alt="Profile Views"/>
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=basit10.profile&left_color=blue&right_color=green)
    </div>
