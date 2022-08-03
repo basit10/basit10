@@ -18,7 +18,7 @@
  
  
 <div align="center">
-    <summary><h3>:fire:&nbsp;&nbsp;My&nbsp;Stats:</h3></summary>
+    <h3>:fire:&nbsp;&nbsp;My&nbsp;Stats:</h3>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=basit10&theme=dark&background=000000)](https://git.io/streak-stats) 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=basit10&show_icons=true)
