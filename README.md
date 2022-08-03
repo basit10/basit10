@@ -19,11 +19,11 @@
    <summary><h3>:man_technologist:&nbsp;&nbsp;About:&nbsp;Me</h3></summary>
  
 I am an Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰
-- 💞️ I’m looking to collaborate on security Projects
+- I’m looking to collaborate on security Projects
 - :telescope: I’m working as a Security Enginner for Dongamers pvt ltd
-- 🌱 I’m currently working on AWS security
+- I’m currently working on AWS security
 - :zap: In my free time, I play around on tryhackme and hackthebox
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mughal963-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mughal963/) [![Gmail Badge](https://img.shields.io/badge/-abdulbasitajmal7@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](#)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mughal963-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-basit-ajmal/) [![Gmail Badge](https://img.shields.io/badge/-abdulbasitajmal7@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](#)
 </details>
 
 ---
