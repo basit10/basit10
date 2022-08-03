@@ -20,13 +20,13 @@
 <div align="center">
     <h3>:fire:&nbsp;&nbsp;My&nbsp;Stats:</h3>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=basit10&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=basit10&theme=draculak&background=000000)](https://git.io/streak-stats) 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=basit10&show_icons=true)
   
   </div>
   
   <div>
-  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basit10&theme=vue"/>
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basit10&theme=dracula"/>
    
   [![trophy](https://github-profile-trophy.vercel.app/?username=basit10&theme=basit10)](https://github.com/basit10/github-profile-trophy)
  ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basit10)](https://github.com/basit10/github-readme-stats)
