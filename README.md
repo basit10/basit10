@@ -26,9 +26,9 @@
   </div>
   
   <div>
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basit10)](https://github.com/basit10/github-readme-stats)
+   
   [![trophy](https://github-profile-trophy.vercel.app/?username=basit10&theme=basit10)](https://github.com/basit10/github-profile-trophy)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basit10)](https://github.com/basit10/github-readme-stats)
   
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basit10&theme=vue"/>
   </div>
