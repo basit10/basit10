@@ -14,10 +14,11 @@
 
 
 
-<details>
-   <summary><h3>:fire:&nbsp;&nbsp;My&nbsp;Stats:</h3></summary>
+-----
+ 
  
 <div align="center">
+    <summary><h3>:fire:&nbsp;&nbsp;My&nbsp;Stats:</h3></summary>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=basit10&theme=dark&background=000000)](https://git.io/streak-stats) 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=basit10&show_icons=true)
@@ -31,5 +32,5 @@
   
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basit10&theme=vue"/>
   </div>
-  </details>
+
 
